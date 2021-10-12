@@ -11,4 +11,4 @@ class Product {
 
 module.exports = Product;
 
-//Jamie Hogan
+//Jamie Hogan v2
