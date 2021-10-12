@@ -10,3 +10,5 @@ class Product {
 
 
 module.exports = Product;
+
+//Jamie Hogan

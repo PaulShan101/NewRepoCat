@@ -18,3 +18,5 @@ class Catalogue {
   }
 }
 module.exports = Catalogue;
+
+//Jamie Hogan
